@@ -1,0 +1,2 @@
+# Intel-8085-is-an-8-bit-microprocessor
+8085 is pronounced as "eighty-eighty-five" microprocessor. It is an 8-bit microprocessor designed by Intel in 1977 using NMOS technology.  It has the following configuration −  8-bit data bus 16-bit address bus, which can address upto 64KB A 16-bit program counter A 16-bit stack pointer Six 8-bit registers arranged in pairs: BC, DE, HL Requires +5V supply to operate at 3.2 MHZ single phase clock It is used in washing machines, microwave ovens, mobile phones, etc.
